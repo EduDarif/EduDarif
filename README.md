@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Eduardo Darif!
 
-<!--
-**EduDarif/EduDarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante e apaixonado por tecnologia  
+💻 Atualmente aprendendo **JavaScript, HTML, CSS e Python**  
+🚀 Sempre em busca de evolução e novos desafios  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias em aprendizado
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript  
+- 🐍 Python
+-  
+---
+
+## 🌎 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/edudarif/)  
+- 📧 Email: eduzadarif@gmail.com 
+
+
