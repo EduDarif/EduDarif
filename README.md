@@ -11,7 +11,7 @@
 - 🎨 CSS  
 - ⚡ JavaScript  
 - 🐍 Python
--  
+  
 ---
 
 ## 🌎 Onde me encontrar
