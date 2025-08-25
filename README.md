@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Eduardo Darif!
 
-🎓 Estudante e apaixonado por tecnologia  
+🎓 Cursando Engenharia de Software e apaixonado por tecnologia  
 💻 Atualmente aprendendo **JavaScript, HTML, CSS e Python**  
 🚀 Sempre em busca de evolução e novos desafios  
 
