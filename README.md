@@ -1,5 +1,5 @@
 <!-- Banner (substitua pela sua imagem personalizada) -->
-![Banner](https://via.placeholder.com/1000x250.png?text=Eduardo+Darif+-+Developer)
+![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTR3MnlyeGo5Zm93dGVpeTd2MWdqczl5N2FydG1nMTh4eTU5bnM1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif)
 
 ---
 
@@ -8,18 +8,6 @@
 🎓 Estudante de Desenvolvimento  
 💻 Atualmente aprendendo **JavaScript, HTML, CSS e Python**  
 🚀 Buscando evoluir continuamente e contribuir para projetos de impacto  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoDarif&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoDarif&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-</div>
 
 ---
 
@@ -48,6 +36,6 @@
 ## 📫 Entre em contato comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
-📧 **seuemail@email.com**
+📧 **eduzadarif@gmail.com**
 
 ---
