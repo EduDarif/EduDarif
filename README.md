@@ -27,7 +27,7 @@
 
 <div align="center">
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduDarif&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF) ![Eduardo's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduDarif&theme=tokyonight) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EduDarif&layout=compact&theme=tokyonight)
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduDarif&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF) ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduDarif&layout=compact&theme=tokyonight)
 
 </div>
 
