@@ -1,4 +1,4 @@
-## Hello World! I'm Eduardo Darif  
+## ![Maozinha](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png) Hello World! I'm Eduardo Darif  
 
 <div align="center">
   
