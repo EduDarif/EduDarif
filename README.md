@@ -1,4 +1,4 @@
-### Hello World! I'm Eduardo Darif  
+# Hello World! I'm Eduardo Darif 👋
 
 <div align="center">
   
@@ -6,13 +6,11 @@
 
 </div>
 
-🎓 Software Engineering Student  
-💻 Currently learning **JavaScript, HTML, CSS, and Python**  
-🚀 Always striving to grow, learn, and contribute to impactful projects  
+🎓 I'm a **Software Engineering Student** passionate about technology and solving problems through code. I'm currently focused on building my skills in web development with **JavaScript, HTML, CSS, and Python**, with the goal of becoming a well-rounded developer and contributing to meaningful projects. I enjoy sharing knowledge and collaborating with others.
 
 ---
 
-## 🛠️ My Stack
+### 🛠️ My Stack
 
 <div align="center">
   
@@ -25,29 +23,17 @@
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats
 
 <div align="center">
 
-<!-- General Stats -->
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduDarif&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-<!-- Most Used Languages (bars style) -->
-![Eduardo's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduDarif&theme=tokyonight)
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduDarif&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF) ![Eduardo's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduDarif&theme=tokyonight)
 
 </div>
 
 ---
 
-## 📌 About Me  
-* 👨‍💻 Passionate student focused on technology and software development
-* 🌱 Currently learning **JavaScript, HTML, CSS, and Python**  
-* 🎯 Goal: to become a well-rounded developer and contribute to meaningful projects  
-* 🤝 I enjoy sharing knowledge and collaborating with others  
-
----
-
-## 📫 Get in Touch  
+### 📫 Get in Touch
 
 <div align="center">
 
@@ -55,5 +41,3 @@
 📧 **eduzadarif@gmail.com**
 
 </div>
-
----
