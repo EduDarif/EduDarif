@@ -1,6 +1,8 @@
-<!-- Banner (substitua pela sua imagem personalizada) -->
+<div align="center">
+  
 ![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTR3MnlyeGo5Zm93dGVpeTd2MWdqczl5N2FydG1nMTh4eTU5bnM1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif)
 
+</div>
 ---
 
 # Eduardo Darif
