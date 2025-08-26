@@ -25,6 +25,23 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+<div align="center">
+
+<!-- General Stats -->
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoDarif&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduardoDarif&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=DD2727&currStreakLabel=58A6FF)
+
+<!-- Most Used Languages (bars style) -->
+![Eduardo's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduardoDarif&theme=tokyonight)
+
+</div>
+
+---
+
 ## 📌 About Me  
 
 * 👨‍💻 Passionate student focused on technology and software development  
@@ -36,9 +53,11 @@
 
 ## 📫 Get in Touch  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edudarif/)
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edudarif/)  
 📧 **eduzadarif@gmail.com**
 
----
+</div>
 
+---
