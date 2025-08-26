@@ -1,4 +1,4 @@
-## Hello World! I'm Eduardo Darif  
+<img width="897" height="165" alt="image" src="https://github.com/user-attachments/assets/e36b9fb4-85b1-4294-b9ed-b9781b956aa7" />## Hello World! I'm Eduardo Darif  
 
 <div align="center">
   
@@ -40,10 +40,7 @@
 ---
 
 ## 📌 About Me  
-* <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="32" height="32">
-Passionate student focused on technology and software development </picture> 
+* 👨‍💻 Passionate student focused on technology and software development
 * 🌱 Currently learning **JavaScript, HTML, CSS, and Python**  
 * 🎯 Goal: to become a well-rounded developer and contribute to meaningful projects  
 * 🤝 I enjoy sharing knowledge and collaborating with others  
