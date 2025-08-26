@@ -1,4 +1,4 @@
-<img width="897" height="165" alt="image" src="https://github.com/user-attachments/assets/e36b9fb4-85b1-4294-b9ed-b9781b956aa7" />## Hello World! I'm Eduardo Darif  
+## Hello World! I'm Eduardo Darif  
 
 <div align="center">
   
