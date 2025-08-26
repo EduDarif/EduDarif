@@ -1,20 +1,20 @@
 <div align="center">
   
-![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTR3MnlyeGo5Zm93dGVpeTd2MWdqczl5N2FydG1nMTh4eTU5bnM1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif)
+![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXp0ZjJzdGl1aW5ram9wNm5rdjd0NHRvZ2dtbmVkbzByd3dlcmJjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)
 
 </div>
 
 ---
 
-# Hello World! My name`s Eduardo Darif
+## Hello World! I'm Eduardo Darif  
 
-🎓 Cursando Engenharia de Software 
-💻 Atualmente aprendendo **JavaScript, HTML, CSS e Python**  
-🚀 Buscando evoluir continuamente e contribuir para projetos de impacto  
+🎓 Software Engineering Student  
+💻 Currently learning **JavaScript, HTML, CSS, and Python**  
+🚀 Always striving to grow, learn, and contribute to impactful projects  
 
 ---
 
-## 🛠️ Linguagens
+## 🛠️ My Stack
 
 <div align="center">
   
@@ -27,18 +27,19 @@
 
 ---
 
-## 📌 Sobre mim
+## 📌 About Me  
 
-- 👨‍💻 Estudante apaixonado por tecnologia e programação.  
-- 🌱 Atualmente aprendendo **JavaScript, HTML, CSS e Python**.  
-- 🎯 Objetivo: me tornar um desenvolvedor completo e contribuir para projetos de impacto.  
-- 🤝 Gosto de compartilhar conhecimento e colaborar em equipe.  
+* 👨‍💻 Passionate student focused on technology and software development  
+* 🌱 Currently learning **JavaScript, HTML, CSS, and Python**  
+* 🎯 Goal: to become a well-rounded developer and contribute to meaningful projects  
+* 🤝 I enjoy sharing knowledge and collaborating with others  
 
 ---
 
-## 📫 Entre em contato comigo
+## 📫 Get in Touch  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
+[![LinkedIn](https://www.linkedin.com/in/edudarif/)  
 📧 **eduzadarif@gmail.com**
 
 ---
+
