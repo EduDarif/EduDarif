@@ -26,8 +26,19 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+  
+### Software Engineering Student
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduDarif&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduDarif&layout=compact&theme=tokyonight)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=EduDarif&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Eduardo's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDarif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Eduardo's Top Languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
