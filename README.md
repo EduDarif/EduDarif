@@ -40,7 +40,10 @@
 ---
 
 ## 📌 About Me  
-
+* <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="32" height="32">
+</picture>
 * 👨‍💻 Passionate student focused on technology and software development  
 * 🌱 Currently learning **JavaScript, HTML, CSS, and Python**  
 * 🎯 Goal: to become a well-rounded developer and contribute to meaningful projects  
