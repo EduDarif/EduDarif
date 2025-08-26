@@ -38,7 +38,7 @@
 
 ## 📫 Get in Touch  
 
-[![LinkedIn](https://www.linkedin.com/in/edudarif/)  
+[![LinkedIn]](https://www.linkedin.com/in/edudarif/)  
 📧 **eduzadarif@gmail.com**
 
 ---
