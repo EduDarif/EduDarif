@@ -27,7 +27,6 @@
 
 ## 📌 About Me  
 
-* [teste](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png)
 * 👨‍💻 Passionate student focused on technology and software development  
 * 🌱 Currently learning **JavaScript, HTML, CSS, and Python**  
 * 🎯 Goal: to become a well-rounded developer and contribute to meaningful projects  
